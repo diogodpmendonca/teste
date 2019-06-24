@@ -1,0 +1,5 @@
+{
+    "dburi": "mongodb+srv://diogoADM:<Q2cp8nOeC3Ljn2CFbOAn>@cluster0-ikeec.mongodb.net/test?retryWrites=true&w=majority",
+    "fbclientId": "XXXXXXXXXX",
+    "fbclientSecret": "XXXXXXXXXXXX"
+}
